@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: 欢迎来到ETong的博客
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+⬅️ 文章请翻阅左侧栏目
