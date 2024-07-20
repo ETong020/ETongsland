@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Avenir-Bold",
+        header: "Avenir",
         body: "Avenir",
         code: "IBM Plex Mono",
       },

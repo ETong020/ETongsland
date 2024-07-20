@@ -26,7 +26,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+        // 此插件转载自skedush.github.io，原注：最近上传的文章，但是每次持续化集成全部都是最新的暂时没用
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "Recent Writing",
+        limit: 3,
+      }),
+    ),
   ],
   right: [
     Component.Graph(),
