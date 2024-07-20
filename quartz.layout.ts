@@ -29,8 +29,13 @@ export const defaultContentPageLayout: PageLayout = {
         // 此插件转载自skedush.github.io，原注：最近上传的文章，但是每次持续化集成全部都是最新的暂时没用
     Component.DesktopOnly(
       Component.RecentNotes({
-        title: "Recent Writing",
+        title: "最近更新",
         limit: 3,
+      }),
+    ),
+    Component.DesktopOnly(
+      Component.Explorer({
+        title: "文章目录",
       }),
     ),
   ],
