@@ -1,5 +1,11 @@
-#思脉弦
-20240118
+---
+title: 
+draft: false
+tags:
+  - 思脉弦
+date: 2024-01-18
+---
+ 
 
 参考：[去一线大城市的意义到底是什么？](https://www.zhihu.com/question/48148522/answer/3307165632?utm_psn=1791626389239238657)
 
