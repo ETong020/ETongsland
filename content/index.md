@@ -15,7 +15,7 @@ OC世界观入口：[[三重圆环之路]]. （更新中）
 
 个人绘画作品展示平台：
 
-[ArtStation](https://www.artstation.com/etongq)（缓慢更新中）
+[ArtStation](https://etongq.artstation.com)（缓慢更新中）
 
 
 
