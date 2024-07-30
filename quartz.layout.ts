@@ -21,6 +21,22 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
+  afterBody: [
+  Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'ETong020/ETongsland',
+      // from data-repo-id
+      repoId: 'R_kgDOMPy-Bg',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOMPy-Bs4ChRf2',
+    }
+  }),
+],
+
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
