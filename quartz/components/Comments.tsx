@@ -11,9 +11,9 @@ type Options = {
     strict?: boolean
     reactionsEnabled?: boolean
     inputPosition?: "top" | "bottom"
-    theme="noborder_light"
-    lang="zh-CN"
-    crossorigin="anonymous"
+    theme?:"noborder_light"
+    lang?:"zh-CN"
+    crossorigin?:"anonymous"
   }
 }
 
