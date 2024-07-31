@@ -22,7 +22,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   afterBody: [
-  Component.Comments(),
+    Component.Comments(),
   ],
 
 
