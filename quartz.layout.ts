@@ -6,8 +6,21 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Comments(),
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'ETong020/ETongsland',
+        // from data-repo-id
+        repoId: 'R_kgDOMPy-Bg',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOMPy-Bs4ChRf2',
+      }
+    }),
   ],
+
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/ETong020",
