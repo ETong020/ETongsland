@@ -1,0 +1,15 @@
+{
+	"icons": [
+		{
+			"src": "/static/icon.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+
+	],
+	"display_override": [
+		"window-control-overlay",
+		"minimal-ui"
+	],
+	"display": "standalone"
+}
