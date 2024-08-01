@@ -50,6 +50,12 @@ date: 2024-08-01
 
 #### 操作
 
+1、下载并安装
+
+1.1、
+
+2、根据[教程](https://cmbill.github.io/quartz-doc-cn/setting-up-your-GitHub-repository)（此为中文翻译版网址，但翻译不全），将[Quartz](https://github.com/jackyzha0/quartz)库Fork到本地并完成初步的sync（同步）。
+
 （回头写）
 #### 途中遇到并解决的问题
 
