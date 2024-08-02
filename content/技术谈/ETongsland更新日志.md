@@ -22,20 +22,3 @@ date: 2024-08-02
 2024-7-31 —— 安装giscus，为博客配置了评论功能（参考官方手册：[Comments](https://quartz.jzhao.xyz/features/comments)）
 
 
-III.The Fire Sermon
-
-The river’s tent is broken:the last fingers of leaf  
-Clutch and sink into the wet bank.The wind  
-Crosses the brown land, unheard.The nymphs are departed.  
-Sweet Thames, run softly, till I end my song.  
-The river bears no empty bottles, sandwich papers,  
-Silk handkerchiefs, cardboard boxes, cigarette ends  
-Or other testimony of summer nights.The nymphs are departed.  
-And their friends, the loitering heirs of city directors;  
-Departed, have left no addresses.  
-By the waters of Leman I sat down and wept…  
-Sweet Thames, run softly till I end my song,  
-Sweet Thames, run softly, for I speak not loud or long.  
-But at my back in a cold blast I hear  
-The rattle of the bones, and chuckle spread from ear to ear.
-
