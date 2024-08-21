@@ -9,7 +9,7 @@ date: 2024-02-10
 
 【[[利穆里亚帝国]]/Lemuria，君权神授/高魔】
 -Ome（傀儡皇帝）
-Karma（圣女）
+-Karma（现任大祭司）
 　　
 【[[亚特兰蒂斯城邦]]/Atlantis，民主城邦/科技】
 -Boise（“COMPLEX”会员）
