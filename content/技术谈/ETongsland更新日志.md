@@ -7,7 +7,7 @@ date: 2024-08-02
 ---
 2024-6-30 —— 正式建站
 
-2024-7-02 —— 设置了个性化的字体（英文）：Avenir
+2024-7-02 —— 设置调用个性化的字体（英文）：Avenir
 
 2024-7-02 —— 设置了个性化的色彩搭配（参考：[“常规配置”段](https://quartz.jzhao.xyz/configuration#general-configuration)）
 
