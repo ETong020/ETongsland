@@ -23,5 +23,9 @@ OC世界观入口：[[三重圆环之路]]. （更新中）
 [Twitter/X](https://x.com/ETong020) / [微博](https://weibo.com/u/5947404836) / [B站](https://b23.tv/E4xLviw)
 
 
+## 
 
+友链：
+
+[KØKU - conceptual vøid]([https://kuresaka.github.io/](https://kuresaka.github.io/))
 
