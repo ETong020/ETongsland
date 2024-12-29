@@ -1,5 +1,7 @@
 ---
 title: 欢迎来到ETong的博客
+cssclasses:
+  - 至于ETong是什么，不大重要。
 tags:
   - 云中火
   - 风雷现
