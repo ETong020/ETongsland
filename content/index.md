@@ -28,5 +28,5 @@ OC世界观入口：[[三重圆环之路]]. （更新中）
 友链：
 
 [Metronome Shop](https://workshopno9.wordpress.com)  
-[KØKU - conceptual vøid]([https://kuresaka.github.io/)
+[KØKU - conceptual vøid](https://kuresaka.github.io/)
 
