@@ -1,6 +1,10 @@
 {
 	"nodes":[
-		{"id":"4fa28c19def523b6","x":-83,"y":-210,"width":400,"height":400,"type":"file","file":"附件/0-Lemu.jpg"}
+		{"id":"113170a754da91d5","type":"file","file":"index.md","x":-184,"y":52,"width":788,"height":531},
+		{"id":"4fa28c19def523b6","type":"file","file":"附件/0-Lemu.jpg","x":10,"y":-640,"width":400,"height":400},
+		{"id":"8745418f03deefd6","x":-1365,"y":-144,"width":400,"height":392,"type":"file","file":"附件/阿西旦多手捧Lemur.jpeg"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"4b8ef079eff8b9c4","fromNode":"4fa28c19def523b6","fromSide":"left","toNode":"8745418f03deefd6","toSide":"right"}
+	]
 }
