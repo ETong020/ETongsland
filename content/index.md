@@ -20,8 +20,8 @@ OC世界观入口：[[三重圆环之路]]. （更新中）
 
 个人绘画作品展示平台：
 
-[ArtStation](https://etongq.artstation.com)（缓慢更新中）  
-[Twitter/X](https://x.com/ETong020) / [微博](https://weibo.com/u/5947404836) / [B站](https://b23.tv/E4xLviw)
+[我的个站（Notion）](https://www.notion.so/ETong-s-Work-1c777298294a8063bf6df145a9030236)    
+[ArtStation](https://etongq.artstation.com)（缓慢更新中）/ [Twitter/X](https://x.com/ETong020) / [微博](https://weibo.com/u/5947404836) / [B站](https://b23.tv/E4xLviw)
 
 
 ## 
