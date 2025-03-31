@@ -23,5 +23,5 @@ date: 2024-08-02
 
 2024-10-9 —— 通过Obsidian原生的可折叠Callouts格式模拟了图床功能（参考[Obsidian Flavored Markdown](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown)），现在可以更自然地为文章置入插图了；未来有望在这里连载我的oc小漫画 ε>(´∀｀   )
 
-2025-3-31 —— 追加了[Notion画廊](https://hungry-feels-f8e.notion.site/ETong-s-Work-1c777298294a8063bf6df145a9030236)，以后可以在专门的图像展示页中浏览画作了
+2025-3-31 —— 追加了[Notion画廊](https://hungry-feels-f8e.notion.site/ETong-s-Work-1c777298294a8063bf6df145a9030236)，以后可以在专门的图像展示页中浏览画作了！（oc漫画也会在那边连载——如果有的话
 
