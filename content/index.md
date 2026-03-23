@@ -21,7 +21,7 @@ OC世界观入口：[[三重圆环之路]]. （更新中）
 
 个人绘画作品展示平台：
 
-[绘画作品（Notion）](https://www.notion.so/ETong-s-Work-1c777298294a8063bf6df145a9030236) （缓慢更新中）
+[绘画作品（Notion）](https://www.notion.so/ETong-s-Work-1c777298294a8063bf6df145a9030236) （缓慢更新中）  
 [ArtStation](https://etongq.artstation.com) / [小红书](https://xhslink.com/m/4xgU0oWcT30) / [B站](https://b23.tv/E4xLviw)
 
 
